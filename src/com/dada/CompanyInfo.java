@@ -10,6 +10,6 @@ public static void main(String[] args) {
 	String email = "Jack@123.com";
 	boolean present = true; 		
 	System.out.println("My email id is:"+email+"\n"+"My age is"+age+"\n"+"My mobile number is:"+mobile);
-	
+System.out.println("Success");	
 }
 }
